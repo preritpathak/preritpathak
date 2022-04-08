@@ -6,7 +6,7 @@
 ### <div align="center">I'm Prerit 👋. I make software for work and break software for fun. 💻  </div>  
   
 
-- 🔭 Working as a Software Engineer at Dell
+- 🔭 Security Engineering Intern - Google
   
 
 - 💻 Founder at [OWASP Jaipur](http://owasp.org/www-chapter-jaipur/) and Technical Content Writer at [GeeksForGeeks](https://auth.geeksforgeeks.org/user/preritpathak/articles)  

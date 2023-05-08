@@ -6,7 +6,7 @@
 ### <div align="center">I'm Prerit 👋. I make software for work and break software for fun. 💻  </div>  
   
 
-- 🔭 Security Engineering Intern - Google
+- 🔭 xSecurity Engineering Intern - Google, SLAC lab, Stanford University
   
 
 - 💻 Founder at [OWASP Jaipur](http://owasp.org/www-chapter-jaipur/) and Technical Content Writer at [GeeksForGeeks](https://auth.geeksforgeeks.org/user/preritpathak/articles)  
@@ -15,7 +15,7 @@
 - ❓ If you want to talk about Vulnerability Research, Threat Modeling or any emerging technology, I'm your guy  
   
 
-- ⚡ Fun fact: I am a trained western vocalist and can play 2 instruments 🎵
+- ⚡ Fun fact: I am a trained vocalist and can play 2 instruments 🎵
  
 
 <br/>  
